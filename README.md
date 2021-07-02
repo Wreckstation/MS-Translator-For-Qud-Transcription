@@ -7,7 +7,7 @@ Stuff I changed:
 - narrowed the width to better fit stream layouts
 - auto shrink the message bubble for small messages instead of being fixed width all the time
 - hid avatars and conversation bot messages in a very janky way
-- 
+
 # Instructions:
 
 Install Stylus on your browser of choice. press Import and import the json. make a room in translator.microsoft.com/chatroom (make sure night mode is on!)
